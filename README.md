@@ -39,6 +39,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"_blank"></a> 
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"_blank"></a> 
 
-  ![Snake animation](https://github.com/rafaballerini2/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/w-cypriano/w-cypriano/blob/output/github-contribution-grid-snake.svg)
  
 </div>
