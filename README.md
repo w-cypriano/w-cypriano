@@ -6,10 +6,16 @@
 * email: profwellington17@gmail.com
 
 ## Quem sou eu:
+Sou formado em redes de computadores pela Faculdade Pitágoras. Atuo na área de informática há mais 15 anos, mais especificamente nas áreas de ensino de informática básica e avançada. 
+	Embora eu tenha um carinho muito grande pela área de ensino, e uma paixão por ajudar as pessoas na resolução de problemas através da tecnologia, iniciei a mais de um ano um processo de transição para a carreira de desenvolvedor web. 
 
 ## O que ando estudando:
+Depois de passar por um processo de seleção, ingressei na [Trybe](https://www.betrybe.com/), no curso de desenvolver Web fullstack, o qual tem me possibilitado desenvolver e aprimorar soft skills como: autoconhecimento, comunicação, colaboração, liderança, entre outras. 
+O Curso é divido em 4 módulos de conhecimento: Introdução Fundamentos de desenvolvimento web, desenvolvimento front-end, desenvolvimento back-end e ciência da computação.
+	Atualmente estou cursando o último módulo, ciência da computação, cujo conteúdo aborda temas como Python, raspagem de dados, complexidade algorítimos, programação orientada a objeto e estruturas de dados.
    
 ## FeedBacks:
+   Entendo que os feedbacks são essenciais para o meu crescimento profissional. Portanto, se você puder deixar seu feedback será super bem-vindo. 
 
 
 <div align="center">
