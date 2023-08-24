@@ -3,7 +3,7 @@
 ## Meus contatos:
 * Celular: (31) 97520-2329
 * Celular: (31) 99338-5402
-* email: profwellington17@gmail.com
+* email: weldev16@gmail.com
 
 ## Quem sou eu:
 Sou formado em redes de computadores pela Faculdade Pitágoras. Atuo na área de informática há mais 15 anos, mais especificamente nas áreas de ensino de informática básica e avançada. 
